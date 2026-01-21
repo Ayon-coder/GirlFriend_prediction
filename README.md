@@ -172,8 +172,6 @@ logistic_regression_gf_pred_proj/
 ├── gf_pred_manual.ipynb                    # From-scratch implementation
 ├── gf_pred_sklearn.ipynb                   # Sklearn Pipeline implementation
 ├── indian_boys_gf_prediction_balanced.csv  # Dataset
-├── add_docs.py                             # Docs script (manual notebook)
-├── add_docs_sklearn.py                     # Docs script (sklearn notebook)
 └── README.md                               # This file
 ```
 
@@ -227,8 +225,3 @@ Contributions are welcome! Feel free to:
 2. Create a feature branch
 3. Submit a pull request
 
----
-
-<p align="center">
-  Made with ❤️ for learning Machine Learning
-</p>
